@@ -1,0 +1,66 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+    #esas-id{
+        width: 100%;
+        height: 630px;
+        .yuxari{
+            width: 100%;
+            height: 45%;
+            background-color: white;
+            display: flex;
+    flex-flow: row;
+            .text{
+                font-family: 'Montserrat', sans-serif;
+                margin-left: 67px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 143px;
+    width: 180%;
+            }
+            .text2{
+                font-family: 'Montserrat', sans-serif;
+                font-size: 18px;
+                margin-top: 143px;
+                margin-left: 50px;
+                width: 60%;
+                text-align: inherit;
+            }
+            .sag-text{
+                color: grey;
+                padding: 81px;
+                .text3{
+                    font-family: 'Montserrat', sans-serif;
+                    display: flex;
+    transform: rotate(270deg);
+    margin-left: 361px;
+    margin-top: -73px;
+    font-size: 30px;}
+                .text4{
+                    font-family: 'Montserrat', sans-serif;
+                }
+            }
+            
+            
+        }
+        .asagi{
+            width: 100%;
+            height: 55%;
+            background-color: white;
+            padding: 00px;
+        
+            .sekil{
+                background-position: center;
+                background-size: 700px;  
+                background-color: #EBEBEA;          
+                margin-left: 64px;
+                width: 1151px;
+                height: 271px;
+                background-image: url(../img/foto.jpg);
+                border-top-left-radius: 50px 50px;
+
+            }
+        }
+    }
+}
